@@ -6,3 +6,195 @@
 	path = custom/odoo-brasil
 	url = git@github.com:Trust-Code/odoo-brasil.git
 	branch = 14.0
+[submodule "oca/account-analytic"]
+	path = oca/account-analytic
+	url = git@github.com:OCA/account-analytic.git
+	branch = 14.0
+[submodule "oca/account-budgeting"]
+	path = oca/account-budgeting
+	url = git@github.com:OCA/account-budgeting.git
+	branch = 14.0
+[submodule "oca/account-closing"]
+	path = oca/account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 14.0
+[submodule "oca/account-financial-reporting"]
+	path = oca/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
+[submodule "oca/account-financial-tools"]
+	path = oca/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
+[submodule "oca/account-invoice-reporting"]
+	path = oca/account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 14.0
+[submodule "oca/account-invoicing"]
+	path = oca/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 14.0
+[submodule "oca/account-payment"]
+	path = oca/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 14.0
+[submodule "oca/account-reconcile"]
+	path = oca/account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 14.0
+[submodule "oca/bank-payment"]
+	path = oca/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 14.0
+[submodule "oca/brand"]
+	path = oca/brand
+	url = git@github.com:OCA/brand.git
+	branch = 14.0
+[submodule "oca/commission"]
+	path = oca/commission
+	url = git@github.com:OCA/commission.git
+	branch = 14.0
+[submodule "oca/community-data-files"]
+	path = oca/community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 14.0
+[submodule "oca/connector"]
+	path = oca/connector
+	url = git@github.com:OCA/connector.git
+	branch = 14.0
+[submodule "oca/contract"]
+	path = oca/contract
+	url = git@github.com:OCA/contract.git
+	branch = 14.0
+[submodule "oca/crm"]
+	path = oca/crm
+	url = git@github.com:OCA/crm.git
+	branch = 14.0
+[submodule "oca/currency"]
+	path = oca/currency
+	url = git@github.com:OCA/currency.git
+	branch = 14.0
+[submodule "oca/delivery-carrier"]
+	path = oca/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 14.0
+[submodule "oca/field-service"]
+	path = oca/field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 14.0
+[submodule "oca/geospatial"]
+	path = oca/geospatial
+	url = git@github.com:OCA/geospatial.git
+	branch = 14.0
+[submodule "oca/helpdesk"]
+	path = oca/helpdesk
+	url = git@github.com:OCA/helpdesk.git
+	branch = 14.0
+[submodule "oca/hr"]
+	path = oca/hr
+	url = git@github.com:OCA/hr.git
+	branch = 14.0
+[submodule "oca/knowledge"]
+	path = oca/knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 14.0
+[submodule "custom/l10n-brazil"]
+	path = custom/l10n-brazil
+	url = git@github.com:OCA/l10n-brazil.git
+	branch = 14.0
+[submodule "oca/management-system"]
+	path = oca/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 14.0
+[submodule "oca/manufacture"]
+	path = oca/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 14.0
+[submodule "oca/mis-builder"]
+	path = oca/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 14.0
+[submodule "oca/partner-contact"]
+	path = oca/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
+[submodule "oca/pos"]
+	path = oca/pos
+	url = git@github.com:OCA/pos.git
+	branch = 14.0
+[submodule "oca/product-attribute"]
+	path = oca/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
+[submodule "oca/project"]
+	path = oca/project
+	url = git@github.com:OCA/project.git
+	branch = 14.0
+[submodule "oca/project-reporting"]
+	path = oca/project-reporting
+	url = git@github.com:OCA/project-reporting.git
+	branch = 14.0
+[submodule "oca/purchase-workflow"]
+	path = oca/purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 14.0
+[submodule "oca/queue"]
+	path = oca/queue
+	url = git@github.com:OCA/queue.git
+	branch = 14.0
+[submodule "oca/reporting-engine"]
+	path = oca/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 14.0
+[submodule "oca/sale-reporting"]
+	path = oca/sale-reporting
+	url = git@github.com:OCA/sale-reporting.git
+	branch = 14.0
+[submodule "oca/sale-workflow"]
+	path = oca/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
+[submodule "oca/server-backend"]
+	path = oca/server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 14.0
+[submodule "oca/server-env"]
+	path = oca/server-env
+	url = git@github.com:OCA/server-env.git
+	branch = 14.0
+[submodule "oca/server-tools"]
+	path = oca/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
+[submodule "oca/server-ux"]
+	path = oca/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 14.0
+[submodule "oca/stock-logistics-barcode"]
+	path = oca/stock-logistics-barcode
+	url = git@github.com:OCA/stock-logistics-barcode.git
+	branch = 14.0
+[submodule "oca/stock-logistics-warehouse"]
+	path = oca/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 14.0
+[submodule "oca/stock-logistics-workflow"]
+	path = oca/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 14.0
+[submodule "oca/storage"]
+	path = oca/storage
+	url = git@github.com:OCA/storage.git
+	branch = 14.0
+[submodule "oca/timesheet"]
+	path = oca/timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 14.0
+[submodule "oca/web"]
+	path = oca/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
+[submodule "oca/website"]
+	path = oca/website
+	url = git@github.com:OCA/website.git
+	branch = 14.0
