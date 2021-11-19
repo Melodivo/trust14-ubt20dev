@@ -198,3 +198,7 @@
 	path = oca/website
 	url = git@github.com:OCA/website.git
 	branch = 14.0
+[submodule "oca/edi"]
+	path = oca/edi
+	url = git@github.com:OCA/edi.git
+	branch = 14.0
