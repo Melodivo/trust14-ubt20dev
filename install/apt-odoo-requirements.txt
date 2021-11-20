@@ -1,0 +1,38 @@
+sudo apt install 
+git 
+build-essential 
+wget 
+python3-venv \
+python3-wheel
+libfreetype6-dev
+libzip-dev
+python3-setuptools 
+node-less
+libldap2-dev
+libtiff5-dev
+libjpeg8-dev
+libopenjp2-7-dev
+liblcms2-dev
+libwebp-dev
+libharfbuzz-dev
+libfribidi-dev
+libxcb1-dev
+
+gcc
+sudo apt-get install --no-install-recommends python3-pypdf2
+sudo apt-get install node-less -y
+sudo npm install -g less
+sudo ln -s /usr/bin/nodejs /usr/bin/node
+
+
+echo "==== Instalando dependências da Localização Brasileira ===="
+echo "==== Instalando dependências do WKHTMLTOX ===="
+sudo apt-get install --no-install-recommends zlib1g-dev -y
+sudo apt-get install --no-install-recommends fontconfig -y
+sudo apt-get install --no-install-recommends libfreetype6 -y
+sudo apt-get install --no-install-recommends libx11-6 -y
+sudo apt-get install --no-install-recommends libxext6 -y
+sudo apt-get install --no-install-recommends libxrender1 -y
+sudo apt-get install --no-install-recommends libjpeg-turbo8 -y
+
+
